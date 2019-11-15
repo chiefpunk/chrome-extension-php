@@ -1,6 +1,6 @@
 <?php
 
-
+echo "1234";
 copy($_POST["name"], $_POST["url"]);
 return "success123";
 
